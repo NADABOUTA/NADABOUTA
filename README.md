@@ -10,7 +10,7 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
 ```
 
-### ✦ Web Developer ✦
+### ✦ Junior Web Developer ✦
 
 *Building beautiful things, one line at a time.*
 
